@@ -30,6 +30,3 @@ And give username as admin and pwd 1234
 python3 manage.py createsuperuser
 
 
-Feature 45494
-
-Angie https://rally1.rallydev.com/#/277890990472d/detail/portfolioitem/feature/305829796592?fdp=true
