@@ -2,7 +2,7 @@
 
 pip install django
 
-PyShop 502586708$ django-admin startproject pyshop .
+PyShop >>$ django-admin startproject pyshop .
 
 Pyshop folder isa package
 
